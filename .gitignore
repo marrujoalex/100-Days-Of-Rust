@@ -1,0 +1,5 @@
+# OS junk
+.DS_STORE
+
+# build artifacts
+**/target/
